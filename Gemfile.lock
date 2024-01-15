@@ -1,9 +1,9 @@
 GEM
   remote: https://rubygems.org/
   specs:
-    http-2-next (1.0.1)
-    httpx (1.0.2)
-      http-2-next (>= 1.0.1)
+    http-2-next (1.0.3)
+    httpx (1.2.1)
+      http-2-next (>= 1.0.3)
     rake (13.0.6)
 
 PLATFORMS
